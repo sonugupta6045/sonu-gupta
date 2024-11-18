@@ -1,0 +1,13 @@
+color = ''
+project-name = 'default'
+[default]
+account_id = 'acct_1Pt0Z6GA9Wc8ThWF'
+device_name = 'LAPTOP-RPOG4KME'
+display_name = 'ecommerce-project'
+live_mode_api_key = 'rk_live_***********************************************************************************************AwLI'
+live_mode_key_expires_at = '2025-01-22'
+live_mode_pub_key = 'pk_live_51Pt0Z6GA9Wc8ThWFCJBsx8mNbmy7QwBbnH975oo1u6niDKEl1tl3EcbeHjx9YZvir8EG6EAYOMKJkvUA5fO8g9HU00K4c8M7uK'
+test_mode_api_key = 'rk_test_51Pt0Z6GA9Wc8ThWFtCfNqxWcAgJYfPwIXKrM18vKHqQPQD2L6o1VabOaPaH6kuoeRQkVMW9rU1p5GaOGx9kS1e3700qMqePy8S'
+test_mode_key_expires_at = '2025-01-22'
+test_mode_pub_key = 'pk_test_51Pt0Z6GA9Wc8ThWFYIfJqDZQwlKf3dRVzcnZt2c8dyMwTw33rOMXHlqU8AI8rYjKaieI6l9dpWUCJR7qWziDx0So00jG7Hezp7'
+
